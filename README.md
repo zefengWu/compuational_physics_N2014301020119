@@ -1,6 +1,6 @@
 # Homework list
-- [ ] [Exercise_01:](spell my name) 
-- [ ] [Exercise_02:]() 
+- [ ] [Exercise_01:]() 
+- [spell my name ] [Exercise_02:]() 
 - [ ] [Exercise_03:]() 
 - [ ] [Exercise_04:]() 
 - [ ] [Exercise_05:]() 
