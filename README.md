@@ -1,6 +1,6 @@
 # Homework list
-- [ ] [Exercise_01:]() 
-- [ ] [Exerscis_02:spell my name](https://www.zybuluo.com/zefengWu/note/505238) 
+- [x] [Exercise_01:]() 
+- [x] [Exerscis_02:spell my name](https://www.zybuluo.com/zefengWu/note/505238) 
 - [ ] [Exercise_03:]() 
 - [ ] [Exercise_04:]() 
 - [ ] [Exercise_05:]() 
