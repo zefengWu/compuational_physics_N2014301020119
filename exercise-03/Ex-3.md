@@ -15,6 +15,7 @@ m## 计算物理  第三次作业，让你的名字动起来！
 
 ##作业一：名字动起来；
 *[见此代码](https://www.zybuluo.com/zefengWu/note/513101)
+！[](https://github.com/zefengWu/compuational_physics_N2014301020119/blob/master/ScreenGif.gif)
 
 
 ##作业二：转起来；
