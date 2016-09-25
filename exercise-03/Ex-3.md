@@ -14,7 +14,7 @@ m## 计算物理  第三次作业，让你的名字动起来！
 
 
 ##作业一：名字动起来；
-*[见此代码](compuational_physics_N2014301020119 / exercise-03 / 代码.py )
+*[见此代码](compuational_physics_N2014301020119 / 代码.py)
 
 
 ##作业二：转起来；
