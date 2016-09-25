@@ -19,7 +19,7 @@ m## 计算物理  第三次作业，让你的名字动起来！
 
 ##作业二：转起来；
 *方法和第一种类似；
- [见此代码]( https://www.zybuluo.com/zefengWu/note/505238 )
+ [见此代码](https://www.zybuluo.com/zefengWu/note/513093 )
 
 
 ##结论：
