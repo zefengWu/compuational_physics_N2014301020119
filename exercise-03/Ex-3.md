@@ -14,12 +14,12 @@ m## 计算物理  第三次作业，让你的名字动起来！
 
 
 ##作业一：名字动起来；
-*[见此代码](compuational_physics_N2014301020119 / 代码.py)
+*[见此代码](https://www.zybuluo.com/zefengWu/note/505238)
 
 
 ##作业二：转起来；
 *方法和第一种类似；
- [见此代码](exercise-03/木棒.py)
+ [见此代码]( https://www.zybuluo.com/zefengWu/note/505238 )
 
 
 ##结论：
