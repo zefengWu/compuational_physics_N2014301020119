@@ -10,7 +10,8 @@ back into type A nuclei. A better analogy would be a resonance in which a system
 and B which have equal energies. The corresponding rate equations are
 
 ![](https://github.com/zefengWu/compuational_physics_N2014301020119/blob/master/CodeCogsEqn.png)
-*where for simplicity we have assumed that the two types of decay are characterized by the same time constant, tau. Solve this system of
+
+ where for simplicity we have assumed that the two types of decay are characterized by the same time constant, tau. Solve this system of
 equation for the numbers of nuclei, NA and NB, as functions of time. Consider different initial conditions, such as NA=100, NB=0, etc,
 and take tau=1s. Show that your numerical results are consistent with the idea that the system reaches a steady state in which NA and
 NB are constant. In such a steady state, the time derivatives dNA/dt and dNB/dt should vanish.
@@ -18,7 +19,8 @@ NB are constant. In such a steady state, the time derivatives dNA/dt and dNB/dt 
 ##解决：
 *根据这章内容，可得：
 
-！[]()
-*而可得到：
+！[](https://github.com/zefengWu/compuational_physics_N2014301020119/blob/master/1.png)
+ 
+ 而可得到：
 
 ![]()
