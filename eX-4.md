@@ -37,4 +37,8 @@ NB are constant. In such a steady state, the time derivatives dNA/dt and dNB/dt 
 
 ##分析：
 
-从结果易见得最后NA和NB都趋于一个稳定状态，而且它们变化值变为0.
+从结果易见得最后NA和NB都趋于一个稳定状态，而且它们变化值变为0.我们在这里只分析了time step=0.1的情况，易知该值越小那么结果就越精确。
+
+##致谢：
+
+感谢伟大的网络和弘毅班的胡同学，
