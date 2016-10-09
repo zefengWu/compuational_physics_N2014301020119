@@ -29,7 +29,7 @@ NB are constant. In such a steady state, the time derivatives dNA/dt and dNB/dt 
 
 ##代码
 
-[点我]()
+![](https://github.com/zefengWu/compuational_physics_N2014301020119/blob/master/temp.py)
 
 输出结果：
 
