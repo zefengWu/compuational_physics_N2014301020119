@@ -24,3 +24,17 @@ NB are constant. In such a steady state, the time derivatives dNA/dt and dNB/dt 
  而可得到：
 
 ![](https://github.com/zefengWu/compuational_physics_N2014301020119/blob/master/3.png)
+
+（说明：我们取NA=100,NB=0,tau=1s,time step=0.1)
+
+##代码
+
+[点我]()
+
+输出结果：
+
+![]()
+
+##分析：
+
+从结果易见得最后NA和NB都趋于一个稳定状态，而且它们变化值变为0.
