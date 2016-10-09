@@ -19,8 +19,8 @@ NB are constant. In such a steady state, the time derivatives dNA/dt and dNB/dt 
 ##解决：
 *根据这章内容，可得：
 
-！[](https://github.com/zefengWu/compuational_physics_N2014301020119/blob/master/1.png)
+![](https://github.com/zefengWu/compuational_physics_N2014301020119/blob/master/1.png)
  
  而可得到：
 
-![]()
+![](https://github.com/zefengWu/compuational_physics_N2014301020119/blob/master/3.png)
