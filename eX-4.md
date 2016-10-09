@@ -33,7 +33,7 @@ NB are constant. In such a steady state, the time derivatives dNA/dt and dNB/dt 
 
 输出结果：
 
-![]()
+![](https://github.com/zefengWu/compuational_physics_N2014301020119/blob/master/figure_1.png)
 
 ##分析：
 
