@@ -1,0 +1,15 @@
+##吴泽峰  2014301020119
+
+
+#题目：2.9
+*Calculate the trajectory of our cannon shell including both air drag and the reduced air density at high altitudes so that you can
+reproduce the results in Figure2.5 Perform your calculation for different firing angles and determine the value of the angle that
+gives the maximum range.
+
+#解决：
+采用欧拉方法解决问题：
+ 在不考虑气阻力，由牛顿力学我们很容易得到：
+                                         ![]()
+           
+          进一步我们可以得到四个一阶方程：
+                                         ![]()
