@@ -6,6 +6,6 @@
 - [x] [Exercise_05:1](https://www.zybuluo.com/zefengWu/note/534200) 
 - [x] [Exercise_06:2](https://www.zybuluo.com/zefengWu/note/542435)
 
-- [ ] [Exercise_07:]() 
-- [ ] [Exercise_08:]() 
+- [x] [Exercise_07:3](https://www.zybuluo.com/zefengWu/note/557716) 
+
 
