@@ -5,7 +5,8 @@
 - [x] [Exercise_04:A First Numerical Problem:1.5.](https://github.com/zefengWu/compuational_physics_N2014301020119/blob/master/eX-4.md) 
 - [x] [Exercise_05:1](https://www.zybuluo.com/zefengWu/note/534200) 
 - [x] [Exercise_06:2](https://www.zybuluo.com/zefengWu/note/542435)
-
 - [x] [Exercise_07:3](https://www.zybuluo.com/zefengWu/note/557716) 
+- [x] [Exercise_08:习题3.18](https://www.zybuluo.com/zefengWu/note/565933） 
+
 
 
