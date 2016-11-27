@@ -8,7 +8,7 @@
 - [x] [Exercise_07:3](https://www.zybuluo.com/zefengWu/note/557716) 
 - [x] [Exercise_08:习题3.18](https://www.zybuluo.com/zefengWu/note/565933)
 - [x] [Exercise_09:习题3.30-3.32](https://www.zybuluo.com/zefengWu/note/573704)
-
+- [x] [Exercise_10:习题4.7,4.9](https://www.zybuluo.com/zefengWu/note/581829)
 
 
 
