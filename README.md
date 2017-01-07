@@ -12,4 +12,4 @@
 - [x] [Exercise_11:习题4.18,4.20](https://www.zybuluo.com/zefengWu/note/590037)
 - [x] [Exercise_12:习题5.3](https://www.zybuluo.com/zefengWu/note/597809)
 - [x] [Exercise_13：习题6.6:](https://www.zybuluo.com/zefengWu/note/605087)
-- [ ] [Final:]()
+- [x] [Final:自由选题](https://www.zybuluo.com/zefengWu/note/625328)
