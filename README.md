@@ -1,4 +1,4 @@
-
+- 吴泽峰 2014301020119  物基2班  本作业仅用于武汉大学计算物理课程，如有问题咨询请联系qq1030453358.
 - [x] [Exercise_01:下载python]() 
 - [x] [Exerscis_02:spell my name](https://www.zybuluo.com/zefengWu/note/505238) 
 - [x] [Exercise_03:让你名字动起来](exercise-03/Ex-3.md) 
